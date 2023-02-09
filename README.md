@@ -7,8 +7,8 @@
 
 <div align="center">
     <a href="https://github.com/wellydabreis">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wellydabreis&count_private=true&show_icons=true&theme=vue">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellydabreis&count_private=true&show_icons=true&theme=vue">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wellydabreis&count_private=true&show_icons=true&theme=dark">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellydabreis&count_private=true&show_icons=true&theme=dark">
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
