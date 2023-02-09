@@ -1,8 +1,9 @@
-### Olá! Sou a Wellyda!
+<h3 align="center"> Hello there, eu sou a Wellyda!</h3>
+<h4 align="center">:computer:</h4>
 
-- 🔭 Hoje estudo front-end
-- 🌱 Estudando HTML5 CSS3 e JavaScript
-- 😄 Pronouns: ela/dela
+🌱 Atualmente estudando Front-end
+
+🙋‍♀️ Fale comigo sobre Desenvolvimento Front-end e Design. Também sobre cachorros, seriados, comida e vinho - 😉
 <div>
     <a href="https://github.com/wellydabreis">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wellydabreis&count_private=true&show_icons=true&theme=vue">
